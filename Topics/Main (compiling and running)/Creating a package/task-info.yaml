@@ -1,0 +1,25 @@
+type: code
+files:
+- name: main.go
+  visible: true
+  text: |-
+    const Greeting = "Hello, I am a calculator created in Go!"
+
+    func Sum(a float64, b float64) float64 {
+        return a + b
+    }
+
+    func Subtract(a float64, b float64) float64 {
+        return a - b
+    }
+
+    // create the Multiply function here
+
+    // create the Divide function here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16133#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 28 Dec 2021 19:13:37 UTC
+record: -1

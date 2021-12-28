@@ -1,0 +1,66 @@
+hyperskill_project:
+  id: 194
+  ide_files: https://stepik.org/media/attachments/lesson/555260/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: Tue, 28 Dec 2021 15:19:29 UTC
+stages:
+- id: 965
+  step: 14002
+  is_completed: true
+- id: 966
+  step: 14003
+  is_completed: true
+- id: 967
+  step: 14004
+  is_completed: true
+- id: 968
+  step: 14005
+  is_completed: true
+- id: 969
+  step: 14006
+  is_completed: true
+- id: 970
+  step: 14007
+  is_completed: false
+topics:
+  0:
+  - title: Introduction to Go
+    theory_id: 17073
+  - title: Variables and constants
+    theory_id: 14468
+  - title: Input/Output
+    theory_id: 14527
+  1:
+  - title: Primitive types
+    theory_id: 16871
+  - title: Strings
+    theory_id: 15412
+  - title: String formatting
+    theory_id: 16860
+  - title: Arithmetic operations
+    theory_id: 16679
+  2:
+  - title: Control statements
+    theory_id: 16235
+  3:
+  - title: Pointers
+    theory_id: 15463
+  - title: Functions
+    theory_id: 16388
+  4:
+  - title: Loops
+    theory_id: 14707
+  - title: Function decomposition
+    theory_id: 17506
+  5:
+  - title: Packages
+    theory_id: 15906
+  - title: Modules
+    theory_id: 15970
+  - title: Main (compiling and running)
+    theory_id: 16128
+  - title: Computer programming
+    theory_id: 8739
+  - title: Libraries
+    theory_id: 8504

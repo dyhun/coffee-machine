@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.go
+  visible: true
+  text: "package main\n\nimport (\n    \"fmt\"\n    // import the rand package here.\n\
+    )\n\nfunc squaredNumber() int64 {\n\tvar x int64\n\tfmt.Scanf(\"%d\", &x)\n\t\
+    return rand.Int63n(x)\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15908#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 27 Dec 2021 23:11:43 UTC
+record: -1

@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.go
+  visible: true
+  text: |-
+    pkg main
+
+    import "format"
+
+    func init() {
+        fmt.Println(emoji())
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15912#comment
+status: Solved
+record: -1

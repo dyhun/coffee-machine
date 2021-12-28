@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: <code>calculator.Sum()</code>
+- text: <code>calculator.Welcome</code>
+- text: <code>calculator.HelloWorld()</code>
+- text: <code>calculator.Subtract()</code>
+- text: <code>calculator.Greeting</code>
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.go
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16130#comment
+status: Solved
+record: -1
